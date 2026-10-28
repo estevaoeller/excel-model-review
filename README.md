@@ -198,7 +198,7 @@ v04 → v05: ligação criada com a aba Receita
 ## Instalar pelo marketplace
 
 ```text
-/plugin marketplace add estevaoeller/agent-skills-marketplace
+/plugin marketplace add estevaoeller/Skills
 /plugin install excel-model-review@estevaoeller-skills
 ```
 
